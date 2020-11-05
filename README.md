@@ -1,3 +1,3 @@
 # myrepo
 testing my setup
-Commit from RStudio
+Test to commit from RStudio
